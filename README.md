@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">My name is Pedro, I'm 19 years old and I live in São Paulo, SP - Brazil. <br>I'm a technology lover and I'm currently studying systems analysis and development.<br>👾</p>
+<p align="center">My name is Pedro, I live in São Paulo, SP - Brazil. <br>I'm a technology lover and I'm currently studying systems analysis and development.<br>👾</p>
 
 ###
 
