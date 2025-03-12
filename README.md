@@ -52,8 +52,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroAMS03&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=midnight-purple&amp;locale=en&amp;hide_border=false&amp;order=1" height="200" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAMS03&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=midnight-purple&amp;hide_border=false&amp;order=2" height="200" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroAMS03&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=midnight-purple&amp;locale=en&amp;hide_border=false&amp;order=1" height="175" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroAMS03&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=midnight-purple&amp;hide_border=false&amp;order=2" height="175" alt="languages graph"/>
 </div>
 
 ###
